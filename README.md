@@ -1,3 +1,7 @@
+# [ROADMAP](https://github.com/dOrgTech/OpenRaise/blob/master/docs/Roadmap.md)
+
+> A Toolkit for accountable on-chain fundraising, and being developed through a collaboration by [dOrg](https://dorg.tech/#/) and [Level K](https://www.levelk.io/). [DXdao](https://dxdao.daostack.io/) commissioned them to develop its fundraiser dapp using [@FairmintCO](https://twitter.com/FairmintCO) smart contracts. DXdao recently ratified the configuration parameters, including pre-mint, curve slope, dividend split, and kickstarter threshold.
+
 # OpenRaise
 
 > "Accountable fundraising for the next generation of decentralized organizations"
